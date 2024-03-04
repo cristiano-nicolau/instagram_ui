@@ -1,4 +1,0 @@
-#Sun Mar 03 17:59:26 WET 2024
-base.0=/home/cristiano/ICM/instagram_ui/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
